@@ -40,6 +40,15 @@ function App() {
       });
     }
 
+    function handleClearAllTasks() {
+      setProjectsState(prevState => {
+        return {
+          ...prevState,
+          tasks: prevState.tasks.filter(task => task.projectId !== prevState.selectedProjectId)
+        };
+      });
+    }
+
     ///Try to add clear all task on your own
 
 
@@ -109,6 +118,7 @@ function App() {
       onAddTask={handleAddTask} 
       onDeleteTask={handleDeleteTask}
       tasks={projectsState.tasks}
+      onClearAllTasks={handleClearAllTasks}
       />;
 
     if (projectsState.selectedProjectId === null) {
