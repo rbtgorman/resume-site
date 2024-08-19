@@ -8,7 +8,7 @@ function About() {
         <div>
           <h3 className="text-2xl font-semibold mb-2 text-blue-600">Robert Gorman</h3>
           <p className="text-gray-600 leading-relaxed">
-            I am enrolled in the MS of Business Analytics Program at Rutgers University. You can view my GitHub profile to see all my personal projects at:  
+            I am enrolled in the MS of Business Analytics Program at Rutgers University. I am an AWS-certified Cloud Practitioner, you can view my GitHub profile to see all my personal projects at:  
             <a href="https://github.com/rbtgorman" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700 transition duration-300"> github.com/rbtgorman</a>.
           </p>
         </div>

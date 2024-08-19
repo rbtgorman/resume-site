@@ -3,10 +3,10 @@ import React from 'react';
 function Education() {
   const educationList = [
     {
-      degree: "Master of Science in Computer Science",
-      institution: "University of Technology",
-      year: "2018 - 2020",
-      details: "Specialized in Machine Learning and Data Science. Thesis on 'Improving Neural Network Efficiency in Natural Language Processing'."
+      degree: "Master of Science in Business Analytics",
+      institution: "Rutgers University - Camden",
+      year: "September 2023 - Present",
+      details: "An MS in Business Analytics degree at Rutgers University, Camden helps students hone the skills to apply modern data science and machine learning capabilities at work to solve real-world business problems."
     },
     {
       degree: "Bachelor of Science in Computer/Information Sciences, Business Administration/Management",
