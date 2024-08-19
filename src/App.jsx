@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
 import About from './components/About';
@@ -18,7 +18,8 @@ function App() {
         <Navigation />
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<About />} />
+            <Route path="/" element={<Navigate to="/about" replace />} />
+            <Route path="/about" element={<About />} />
             <Route path="/experience" element={<Experience />} />
             <Route path="/education" element={<Education />} />
             <Route path="/skills" element={<Skills />} />

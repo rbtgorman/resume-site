@@ -9,7 +9,7 @@ function Education() {
       details: "An MS in Business Analytics degree at Rutgers University, Camden helps students hone the skills to apply modern data science and machine learning capabilities at work to solve real-world business problems."
     },
     {
-      degree: "Bachelor of Science in Computer/Information Sciences, Business Administration/Management",
+      degree: "Bachelor of Science in Computer Science / Business Management",
       institution: "Rutgers University - Camden",
       year: "2016 - 2021",
       details: 
