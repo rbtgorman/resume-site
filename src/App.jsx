@@ -6,23 +6,23 @@ import About from './components/About';
 import Experience from './components/Experience';
 import Education from './components/Education';
 import Skills from './components/Skills';
-import Projects from './components/Projects';
+import ProjectsAndCertifications from './components/ProjectsAndCertifications';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
   return (
     <Router>
-      <div className="app">
+      <div className="min-h-screen flex flex-col">
         <Header />
         <Navigation />
-        <main>
+        <main className="flex-grow">
           <Routes>
             <Route path="/" element={<About />} />
             <Route path="/experience" element={<Experience />} />
             <Route path="/education" element={<Education />} />
             <Route path="/skills" element={<Skills />} />
-            <Route path="/projects" element={<Projects />} />
+            <Route path="/projects" element={<ProjectsAndCertifications />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
