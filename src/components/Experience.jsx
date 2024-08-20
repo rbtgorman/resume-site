@@ -16,7 +16,7 @@ function Experience() {
     },
     {
       title: "IT Desktop Support Intern",
-      company: "Rutgers University - Camden",
+      company: "Research for Action",
       period: "September 2019 - January 2020",
       responsibilities: [
         "Troubleshoot hardware and software issues, configuration of software packages",

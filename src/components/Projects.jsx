@@ -17,7 +17,7 @@ function Projects() {
     {
       title: "Search Credentials App",
       description: 
-      "Develop a web app that allows users to search for Rutgers Credentials. Created using PHP/PDO and MySQL"
+      "Developed a web app that allows users to search for Rutgers Credentials. Created using PHP/PDO and MySQL"
       +"User will type in First and Last Name. Program will output the user's Full Name, userid, ID #, and email address.",
 
       link: "https://github.com/rbtgorman/search_credentials"
@@ -39,7 +39,7 @@ function Projects() {
     {
       title: "Sports Quiz",
       description: 
-      "Develop a web app that allows users to test their sports knowledge. Created using PHP/PDO and MySQL"
+      "Developed a web app that allows users to test their sports knowledge. Created using PHP/PDO and MySQL"
       +"It starts with a prompt to enter an email, then once that is done you start the quiz."+
       +"Upon completion of the quiz, it provides your results, there is also an Admin Panel option",
 

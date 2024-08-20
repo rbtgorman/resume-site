@@ -11,7 +11,6 @@ function Contact() {
               <h3 className="text-xl font-semibold text-gray-800 mb-2">Contact Information</h3>
               <p className="text-gray-600 mb-1">Email: rbtgorman@gmail.com</p>
               <p className="text-gray-600 mb-1">Phone: (856) 993-6601</p>
-              <p className="text-gray-600">Location: Gloucester City, NJ 08030</p>
             </div>
             <div className="flex justify-center space-x-4">
               <a 
