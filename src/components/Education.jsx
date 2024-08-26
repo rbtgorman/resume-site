@@ -9,11 +9,11 @@ function Education() {
       details: "The MS in Business Analytics degree at Rutgers University, Camden will help me learn to apply modern data science and machine learning capabilities at work to solve real-world business problems."
     },
     {
-      degree: "Bachelor of Science in Computer Science / Business Management",
+      degree: "Bachelor of Science in Computer Science / Business Management (Concentration in Economics)",
       institution: "Rutgers University - Camden",
       year: "2016 - 2021",
       details: 
-      "Graduated with a degree in Computer Science and Business Management (HR Concentration) with a GPA of 3.810. " +
+      "Graduated with a degree in Computer Science and Business Management  (Concentration in Economics) with a GPA of 3.810. " +
       "Heavily involved with groups and organizations on campus such as ACM (Association of Computing and Machinery) and LASO (Latin American Student Organization).",
     }
   ];

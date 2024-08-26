@@ -11,7 +11,7 @@ function Projects() {
       +"Created a move date validator to verify the user input as a valid future date and utilized USPS Address Validation API to verify the user entered a valid address."
       +"Performed QA testing to identify and patch bugs,Communicated with my team daily about project status and tracked project progress using collaboration tool, Basecamp.",
 
-      link: "https://github.com/rbtgorman/"
+      link: "https://github.com/rbtgorman/"      
     },
 
     {
