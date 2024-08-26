@@ -49,23 +49,24 @@ function Projects() {
   ];
 
   return (
-    <section className="max-w-6xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
-      <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">Projects</h2>
+    <section className="max-w-6xl mx-auto mt-16 p-8 bg-gradient-to-br from-green-100 to-blue-100 shadow-2xl rounded-lg overflow-hidden relative">
+      <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-orange-400 to-pink-400"></div>
+      <h2 className="text-3xl font-bold mb-8 text-blue-800 border-b border-blue-300 pb-2 text-center">Projects</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {projects.map((project, index) => (
-          <div key={index} className="bg-white shadow-lg rounded-lg overflow-hidden transition duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-xl">
+          <div key={index} className="bg-white bg-opacity-80 backdrop-filter backdrop-blur-lg rounded-lg overflow-hidden transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl">
             <div className="p-6">
-              <h3 className="text-xl font-semibold text-gray-800 mb-2">{project.title}</h3>
-              <p className="text-gray-600 mb-4 line-clamp-3">{project.description}</p>
+              <h3 className="text-xl font-semibold text-blue-700 mb-2">{project.title}</h3>
+              <p className="text-gray-700 mb-4 line-clamp-3">{project.description}</p>
               {project.title !== "Water America Web App" && (
-              <a 
-                href={project.link} 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="inline-block bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition duration-300 ease-in-out"
-              >
-                View Project
-              </a>
+                <a 
+                  href={project.link} 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-block bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-orange-500 transition duration-300 ease-in-out"
+                >
+                  View Project
+                </a>
               )}
             </div>
           </div>
@@ -74,6 +75,5 @@ function Projects() {
     </section>
   );
 }
-
 
 export default Projects;
