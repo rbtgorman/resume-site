@@ -32,7 +32,7 @@ function Projects() {
     {
       title: "Resume Web App - This site",
       description: 
-      "Devloped a web app where users can view my Resume, detailed with different components"
+      "Developed a web app where users can view my Resume, detailed with different components"
       + "The site includes; About , Contact , Education, Experience, Projects/Certifications, and Skills pages",
       link: "https://github.com/rbtgorman/portfolio-mgmt-site"
     },
