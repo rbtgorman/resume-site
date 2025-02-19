@@ -36,11 +36,11 @@ function Projects() {
       link: "https://github.com/rbtgorman/BigDataAnalyticsCourse_FinalProject"
     },
     {
-      title: "Portfolio Management Website",
+      title: "Machine Learning Course - Final Project",
       description: 
-      "Developed a web app that allows users to add, delete, and modify projects they have worked on."
-      + "This was created using React and Javascript mainly",
-      link: "https://github.com/rbtgorman/portfolio-mgmt-site"
+      "This project focused on predicting customer churn using machine learning. The team found that decision trees outperformed logistic regression in accuracy (70.17% vs. 63.73%). They identified segment 6 as the most effective for predicting churn due to its high churn rate and entropy"
+      + "The project also analyzed factors influencing coupon usage, revealing that owning a Simmons loyalty card significantly increased the likelihood of coupon redemption. Overall, the project applies data science techniques to enhance customer retention strategies and optimize marketing efforts.",
+      link: "https://github.com/rbtgorman/MachineLearning-Application_Course"
     },
     {
       title: "Resume Web App - This site",
