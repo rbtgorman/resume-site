@@ -24,16 +24,16 @@ function Projects() {
       +"Created a move date validator to verify the user input as a valid future date and utilized USPS Address Validation API to verify the user entered a valid address."
       +"Performed QA testing to identify and patch bugs,Communicated with my team daily about project status and tracked project progress using collaboration tool, Basecamp.",
 
-      link: "https://github.com/rbtgorman/"      
+      link: "https://github.com/rbtgorman/WaterAmerica"      
     },
 
     {
-      title: "Search Credentials App",
+      title: "Big Data Analytics Course - Final Project",
       description: 
-      "Developed a web app that allows users to search for Rutgers Credentials. Created using PHP/PDO and MySQL"
-      +"User will type in First and Last Name. Program will output the user's Full Name, userid, ID #, and email address.",
+      "Used python code to complete my final project for this course in my MS Business Analytics Program"
+      +"Used a supermarket dataset which provides information about transactions that took place in a specific supermarket and analyzed the data",
 
-      link: "https://github.com/rbtgorman/search_credentials"
+      link: "https://github.com/rbtgorman/BigDataAnalyticsCourse_FinalProject"
     },
     {
       title: "Portfolio Management Website",
