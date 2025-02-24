@@ -16,7 +16,7 @@ function Experience() {
     },
     {
       title: "IT Desktop Support Intern",
-      company: "Research for Action",
+      company: "Research for Action - Philadelphia",
       period: "September 2019 - January 2020",
       responsibilities: [
         "Troubleshot hardware and software issues and configured software packages.",
