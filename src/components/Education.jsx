@@ -14,7 +14,7 @@ function Education() {
       year: "2016 - 2021",
       details: 
       "Graduated with a degree in Computer Science and Business Management with a concentration in Economics. " +
-      "Heavily involved with groups and organizations on campus such as ACM (Association of Computing and Machinery) and LASO (Latin American Student Organization).",
+      "Was heavily involved with groups and organizations on campus such as ACM (Association for Computing Machinery) and LASO (Latin American Student Organization).",
     }
   ];
 
