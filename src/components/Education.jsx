@@ -6,7 +6,7 @@ function Education() {
       degree: "Master of Science in Business Analytics",
       institution: "Rutgers University - Camden",
       year: "September 2023 - Present",
-      details: "The Rutgers-Camden University M.S. Business Analytics curriculum has helped me learn to apply modern data science and machine learning capabilities at work to solve real-world business problems."
+      details: "The M.S. in Business Analytics curriculum has helped me learn to apply modern data science and machine learning capabilities at work to solve real-world business problems."
     },
     {
       degree: "B.S. in Computer Science / Business Management (Concentration in Economics)",
