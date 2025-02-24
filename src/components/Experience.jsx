@@ -7,11 +7,11 @@ function Experience() {
       company: "Rutgers University - Camden IT",
       period: "June 2020 - Present",
       responsibilities: [
-        "Help design and build Enhanced Classrooms & provide IT support for the rooms.",
-        "Assisted in campus-wide 70+ classroom upgrade – Installed, and configured WUXGA projectors, projector screens, Extron control systems, and HD lecture capture IP cameras.",
-        "Wired and wireless support for ResNet devices – port repair, configuration, 802.1x troubleshooting/device registration. ",
-        "Monitor and maintain University Computer Systems/Networks.",
-        "Monitor ServiceNow classroom queue; resolve ticket."
+        "Help design and build Enhanced Classrooms and provide IT support for the rooms.",
+        "Assist in campus-wide 70+ classroom upgrades - Install and configure WUXGA projectors, projector screens, Extron control systems, and HD lecture capture IP cameras.",
+        "WProvide wired and wireless support for ResNet devices - Perform port repairs, configurations, and 802.1x troubleshooting/device registration. ",
+        "Monitor and maintain University Computer Systems and Networks.",
+        "Monitor ServiceNow classroom queue and resolve tickets."
       ]
     },
     {
@@ -19,19 +19,20 @@ function Experience() {
       company: "Research for Action",
       period: "September 2019 - January 2020",
       responsibilities: [
-        "Troubleshoot hardware and software issues, configuration of software packages",
-        "Setup and configuration of new computers or rebuilding older computers",
-        "Support of conference room AV technology, assisted with network and server maintenance, monitoring, and development"
+        "Troubleshot hardware and software issues and configured software packages.",
+        "Set up and configured new computers or rebuilt older computers.",
+        "Supported conference room AV technology, assisted with network and server maintenance, monitoring, and development."
       ]
     },
     {
       title: "IT Help Desk Consultant",
       company: "Rutgers University - Camden",
-      period: "August 2016 - June 2020",
+      period: "August 2016 - January 2020",
       responsibilities: [
-        "Troubleshoot hardware and software issues, configuration of software packages",
-        "Setup and configuration of new computers or rebuilding older computers",
-        "Support of conference room AV technology, assisted with network and server maintenance, monitoring, and development"
+        "Performed account and software troubleshooting and virus removal.",
+        "Provided Tier 1 Technology support and Enhanced Classroom support - Worked with Office 365, Bomgar, Verizon InContact Phone Service, and ServiceNow Ticketing System.",
+        "Assisted students and faculty with account and software issues over the phone and in person during classroom calls.",
+        "Conducted a VoIP survey to facilitate the installation of new phones for faculty to access Ethernet."
       ]
     }
   ];
