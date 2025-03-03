@@ -9,7 +9,7 @@ function Experience() {
       responsibilities: [
         "Help design and build Enhanced Classrooms and provide IT support for the rooms.",
         "Assist in campus-wide 70+ classroom upgrades - Install and configure WUXGA projectors, projector screens, Extron control systems, and HD lecture capture IP cameras.",
-        "WProvide wired and wireless support for ResNet devices - Perform port repairs, configurations, and 802.1x troubleshooting/device registration. ",
+        "Provide wired and wireless support for ResNet devices - Perform port repairs, configurations, and 802.1x troubleshooting/device registration. ",
         "Monitor and maintain University Computer Systems and Networks.",
         "Monitor ServiceNow classroom queue and resolve tickets."
       ]
