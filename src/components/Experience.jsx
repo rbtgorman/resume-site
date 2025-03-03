@@ -47,8 +47,8 @@ function Experience() {
           <h4 className="text-xl text-blue-600 mb-2">{job.company}</h4>
           <p className="text-sm text-gray-600 mb-4">{job.period}</p>
           <ul className="list-disc pl-5 space-y-2">
-            {job.responsibilities.map((responsibility, index) => (
-              <li key={index} className="text-gray-700">{responsibility}</li>
+            {job.responsibilities.map((responsibility, respIndex) => (
+              <li key={respIndex} className="text-gray-700">{responsibility}</li>
             ))}
           </ul>
         </div>
