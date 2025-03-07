@@ -51,7 +51,7 @@ function About() {
         >
           <h3 className="text-2xl font-semibold mb-2">Robert Gorman</h3>
           <p className="leading-relaxed">
-            I am enrolled in the MS of Business Analytics Program at Rutgers University. I am an AWS-certified Cloud Practitioner, you can view my GitHub profile to see all my personal projects at:  
+            I am enrolled in the MS of Business Analytics Program at Rutgers University. I am an AWS-certified Cloud Practitioner (Certification Number: 662ca624c88349d6b630dffb1a28f84d), you can view my GitHub profile to see all my personal projects at:  
             <a href="https://github.com/rbtgorman" target="_blank" rel="noopener noreferrer" className="text-orange-500 hover:text-orange-700 transition duration-300"> github.com/rbtgorman</a>.
           </p>
         </div>
